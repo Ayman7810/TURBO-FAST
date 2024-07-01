@@ -1,0 +1,312 @@
+@media screen and (max-width: 1199px) {
+    .block_content_login {
+        padding: 40px 25px;
+    }
+    .head_u_content>img {
+        right: -35px;
+    }
+    .caption_home h2 {
+        
+        font-size: 36px;
+        
+    }
+    .cookie_box {
+        margin-top: 20px;
+    }
+}
+
+@media screen and (max-width: 991px) {
+    .box_cn_login {
+        border-radius: 35px;
+    }
+    .head_user_login {
+        border-radius: 35px 35px 0 0;
+    }
+    .btn_homeBack {
+        top: -10px;
+        right: -10px;
+    }
+    .head_u_content>img {
+        right: auto;
+    }
+    .head_u_content {
+        text-align: center;
+    }
+    .head_title_cnLogin h2 {
+        font-size: 22px;
+    }
+    .started_head,
+    .main_menu,
+    .phone_head {
+        display: none;
+    }
+    #header .menu-trigger {
+        display: block;
+    }
+    .caption_home h2 {
+        font-size: 28px;
+    }
+    .sc_block_home {
+        padding: 150px 0;
+    }
+    .app_stors li {
+        margin-right: 10px;
+    }
+    .app_stors li>a {
+        padding: 12px 20px 12px 60px;
+        font-size: 16px;
+        min-width: 190px;
+    }
+    .app_stors li>a>img {
+        left: 25px;
+    }
+    .mobile_home {
+        width: 45%;
+        padding-top: 50px;
+    }
+    .cn_head h2 {
+        font-size: 24px;
+    }
+    .title_stp {
+        font-size: 15px;
+    }
+    .patern_lf {
+        max-width: 70px;
+    }
+    .patern_rt {
+        max-width: 90px;
+    }
+    .head_artTxt h2 {
+        font-size: 24px;
+        line-height: 1.4;
+    }
+    .head_artTxt p {
+        font-size: 14px;
+    }
+    .point_item_txt h3 {
+        font-size: 16px;
+    }
+    .point_item_txt p {
+        font-size: 14px;
+    }
+    .accordion_st .btn-link {
+        font-size: 16px;
+        padding-left: 20px;
+    }
+    .accordion_st .card-body {
+        padding: 10px 20px 30px;
+    }
+    .accordion_st .btn-link:before {
+        font-size: 16px;
+    }
+    .box_content_help h2 {
+        font-size: 26px;
+    }
+    .number_help {
+        font-size: 32px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .header_login,
+    .txt_uhead {
+        padding: 0 15px;
+    }
+    .block_content_login {
+        padding: 30px 15px;
+    }
+    .head_title_cnLogin h2 {
+        font-size: 20px;
+    }
+    .caption_home p {
+        font-size: 15px;
+    }
+    .mobile_home {
+        width: 100%;
+        position: static;
+        padding-top: 0;
+        height: auto;
+    }
+    .sc_block_home {
+        padding: 85px 0 50px;
+    }
+    .caption_home h2 {
+        font-size: 26px;
+    }
+    .cn_head h2 {
+        font-size: 22px;
+    }
+    .cn_head p {
+        font-size: 15px;
+    }
+    .article_thumb {
+        text-align: center !important;
+        margin-bottom: 30px;
+    }
+    .head_artTxt h2 {
+        font-size: 22px;
+    }
+    .point_item_txt h3 {
+        margin-bottom: 10px;
+    }
+    .head_artTxt h2 {
+        margin-bottom: 15px;
+    }
+    .ft_logo>a {
+        display: table;
+        margin: auto;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+    .copyright {
+        text-align: center;
+        margin-top: 20px;
+    }
+    .ft_lang {
+        text-align: center;
+    }
+    .ft_app_download .app_stors {
+        float: none;
+        display: table;
+        margin: 20px auto 0;
+    }
+}
+
+@media screen and (max-width: 575px) {
+    .head_title_cnLogin h2 {
+        font-size: 18px;
+    }
+    .head_title_cnLogin {
+        margin-bottom: 20px;
+    }
+    .btn_social {
+        margin-bottom: 10px;
+    }
+    .btn_white {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .txt_uhead p {
+        font-size: 14px;
+    }
+    .checkbox_label,
+    .forget_link {
+        font-size: 13px;
+    }
+    .btn_prim {
+        font-size: 15px;
+    }
+    .m_logo {
+        max-width: 90px;
+    }
+    .form_st1 .form-control {
+        font-size: 14px;
+    }
+    .btn_white {
+        font-size: 13px;
+    }
+    .header_login .btn_white {
+        min-width: 130px;
+    }
+    .link_note {
+        font-size: 15px;
+    }
+    .actions_verification h3 {
+        font-size: 14px;
+    }
+    .actions_verification {
+        padding-top: 30px;
+    }
+    .actions_verification a {
+        margin-bottom: 15px;
+    }
+    .step_txt {
+        font-size: 13px;
+    }
+    .head_title_step {
+        padding-right: 60px;
+    }
+    .sub_title_dev {
+        font-size: 16px;
+    }
+    .congratulations_txt h3 {
+        font-size: 18px;
+    }
+    .congratulations_txt p {
+        font-size: 12px;
+    }
+    .btns_actions_success .row {
+        margin: 0 -5px;
+    }
+    .btns_actions_success .row>div {
+        padding: 0 5px;
+    }
+    .icon_success_done {
+        font-size: 20px;
+        width: 60px;
+        height: 60px;
+    }
+    .caption_home h2 {
+        font-size: 22px;
+        white-space: normal;
+    }
+    .app_stors li>a>img,
+    .ft_app_download .app_stors li>a>img {
+        max-width: 20px;
+    }
+    .app_stors {
+        padding-top: 0;
+        display: table;
+        margin: auto;
+    }
+    .app_stors li>a,
+    .ft_app_download .app_stors li>a {
+        padding: 10px 10px 10px 40px;
+        font-size: 14px;
+        min-width: 140px;
+    }
+    .app_stors li>a>span,
+    .ft_app_download .app_stors li>a span {
+        font-size: 10px;
+    }
+    .app_stors li>a>img,
+    .ft_app_download .app_stors li>a img {
+        left: 15px;
+    }
+    .title_stp {
+        font-size: 13px;
+    }
+    .cn_head h2 {
+        font-size: 18px;
+    }
+    .cn_head p {
+        font-size: 14px;
+    }
+    .step_progress_block {
+        padding: 0 0 30px;
+    }
+    .head_artTxt h2 {
+        font-size: 18px;
+    }
+    .point_item_txt h3:before {
+        font-size: 14px;
+    }
+    .block_article_item {
+        padding: 25px 0;
+    }
+    .box_content_help {
+        background-size: 150px;
+    }
+    .number_help {
+        font-size: 24px;
+    }
+    .box_content_help h2 {
+        font-size: 22px;
+    }
+    .box_content_help {
+        padding: 30px 20px;
+    }
+    .sc_block_working {
+        padding: 50px 0 20px;
+    }
+}

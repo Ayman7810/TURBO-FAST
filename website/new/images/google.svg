@@ -1,0 +1,12 @@
+<svg id="google" xmlns="http://www.w3.org/2000/svg" width="25" height="31.03" viewBox="0 0 25 31.03">
+  <g id="Group" transform="translate(0 0.97)">
+    <path id="Path" d="M17.617,10.31C14.484,8.357,9.455,5.221,1.654.353A1.718,1.718,0,0,0,0,.113L13.384,15.028Z" transform="translate(1.315 0.001)" fill="#32bbff"/>
+    <path id="Path-2" data-name="Path" d="M1.286,0A1.824,1.824,0,0,0,1,.136,2.139,2.139,0,0,0,0,2V27.831A2.139,2.139,0,0,0,1,29.7a1.847,1.847,0,0,0,.284.136L14.67,14.916Z" transform="translate(0.029 0.113)" fill="#32bbff"/>
+    <path id="Path-3" data-name="Path" d="M13.384,0,0,14.916a1.7,1.7,0,0,0,1.654-.241c7.565-4.721,12.538-7.82,15.707-9.79l.26-.163Z" transform="translate(1.315 15.029)" fill="#32bbff"/>
+  </g>
+  <path id="Path-4" data-name="Path" d="M0,0V12.595a2.074,2.074,0,0,0,1,1.818,1.865,1.865,0,0,0,.284.132L14.655,0Z" transform="translate(0 15.515)" fill="#2c9fd9"/>
+  <path id="Path-5" data-name="Path" d="M1.96.36A1.735,1.735,0,0,0,0,.253L13.617,15.515,18.1,10.487C14.935,8.5,9.849,5.311,1.96.36Z" transform="translate(1.724)" fill="#29cc5e"/>
+  <path id="Path-6" data-name="Path" d="M13.614,0,0,15.26a1.723,1.723,0,0,0,1.96-.107C9.608,10.352,14.636,7.2,17.84,5.2l.263-.165Z" transform="translate(1.724 15.515)" fill="#d93f21"/>
+  <path id="Path-7" data-name="Path" d="M10.345,4.846A2.119,2.119,0,0,0,9.368,3.02S8.153,2.279,4.429,0L0,4.846,4.433,9.7C8.116,7.435,9.367,6.672,9.367,6.672A2.119,2.119,0,0,0,10.345,4.846Z" transform="translate(14.655 10.667)" fill="#ffd500"/>
+  <path id="Path-8" data-name="Path" d="M9.368,1.825A2.118,2.118,0,0,0,10.345,0H0L4.433,4.848C8.116,2.587,9.368,1.825,9.368,1.825Z" transform="translate(14.655 15.515)" fill="#fa0"/>
+</svg>
